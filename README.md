@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 https://fb-angular-test-87e7c.firebaseapp.com
 
-## Deploy
+## Deploy to Firebase
 
 Run `npm run deploy` to re-deploy the production build to Firebase.
 
